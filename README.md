@@ -10,7 +10,7 @@ The Dataset will be as below figure:
 Here, defineing the save and exit buttons with the variables to enter into collecting data. The data entered in the window as in figure.
 
 Entry of details window:
-<enter>
+
 ![Data Entry](https://github.com/Nutakki2259/Enter-your-data-into-Excel-file-using-Python-Programming-Tkinter-Pandas/blob/master/images/Entry_data.PNG)
 
 ### 2. Show your entry details /Quit from the entry box
